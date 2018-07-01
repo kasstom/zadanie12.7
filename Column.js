@@ -82,3 +82,4 @@ Column.prototype = {
 		}
 	}
 };
+
